@@ -9,8 +9,6 @@
 * [Telegram](https://t.me/KotikVacia)
 * [Twitter](https://twitter.com/KotikVacia)
 * [VK](http://vk.com/vladatkishkin)
-
-[![Codewars](https://www.codewars.com/users/AtkishkinVlad/badges/large)](https://www.codewars.com/users/AtkishkinVlad)
 <!--
 **AtkishkinVlad/AtkishkinVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
