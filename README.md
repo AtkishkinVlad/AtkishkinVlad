@@ -4,8 +4,9 @@
 
 [![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact)](https://github.com/AtkishkinVlad/github-readme-stats)
 
+[![Codewars](https://www.codewars.com/users/AtkishkinVlad/badges/small)](https://www.codewars.com/users/AtkishkinVlad)
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 * [Telegram](https://t.me/KotikVacia)
 * [Twitter](https://twitter.com/KotikVacia)
