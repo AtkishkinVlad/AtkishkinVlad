@@ -4,7 +4,7 @@
 
 [![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact)](https://github.com/AtkishkinVlad/github-readme-stats)
 
-[![Codewars](https://www.codewars.com/users/AtkishkinVlad/badges/big)](https://www.codewars.com/users/AtkishkinVlad)
+[![Codewars](https://www.codewars.com/users/AtkishkinVlad/badges/large)](https://www.codewars.com/users/AtkishkinVlad)
 
 ### 📫 How to reach me
 
