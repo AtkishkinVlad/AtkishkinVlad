@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333D8F7&size=24&duration=6000&lines=Mathematics+and+Mechanics+Faculty;Ural+Federal+University;Bachelor+of+Fundamental+informatics+and+information+technology)](https://git.io/typing-svg)
+
 <!--
 **AtkishkinVlad/AtkishkinVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
