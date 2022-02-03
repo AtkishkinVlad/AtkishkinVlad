@@ -4,6 +4,8 @@
 
 [![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact)](https://github.com/AtkishkinVlad/github-readme-stats)
 
+[![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin)](https://github.com/vladatkishkin/leetcode-stats)
+
 ### 📫 How to reach me
 
 * [Telegram](https://t.me/KotikVacia)
