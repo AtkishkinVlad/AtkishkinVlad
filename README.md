@@ -6,7 +6,7 @@
 
 [![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin)](https://github.com/vladatkishkin/leetcode-stats)
 
-### 📫 How to reach me
+# 📫 How to reach me
 
 * [Telegram](https://t.me/KotikVacia)
 * [Twitter](https://twitter.com/KotikVacia)
