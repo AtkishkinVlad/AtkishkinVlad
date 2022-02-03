@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333D8F7&size=24&duration=6000&lines=IMKN;UrFU;Fiit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333D8F7&size=24&duration=4000&lines=IMKN;UrFU;Fiit)](https://git.io/typing-svg)
 
 ![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true)
 
