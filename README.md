@@ -6,6 +6,8 @@
 
 [![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin)](https://github.com/vladatkishkin/leetcode-stats)
 
+<a href="https://app.daily.dev/KotikVacia"><img src="https://api.daily.dev/devcards/f23f7cf8c5e549c7a4c587732243d444.png?r=62e" width="400" alt="KotikVacia's Dev Card"/></a>
+
 # 📫 How to reach me
 
 * [Telegram](https://t.me/KotikVacia)
