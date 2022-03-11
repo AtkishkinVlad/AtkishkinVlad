@@ -15,6 +15,7 @@
 * [Telegram](https://t.me/KotikVacia)
 * [Twitter](https://twitter.com/KotikVacia)
 * [VK](http://vk.com/vladatkishkin)
+* [Stepik](https://stepik.org/users/52904346)
 <!--
 **AtkishkinVlad/AtkishkinVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
