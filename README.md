@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333D8F7&size=24&duration=1500&lines=Kontur;Fundamental Computer Science and Information Technology;Ural Fedaral University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=38F799&background=FF090900&lines=Kontur;Fundamental+CS+and+IT;Ural+Fedaral+University)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts,bash,bootstrap)](https://skillicons.dev)
 
