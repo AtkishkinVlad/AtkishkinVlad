@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333D8F7&size=24&duration=1500&lines=IMKN;Fiit;UrFU)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts,bash,bootstrap)](https://skillicons.dev)
 
 ![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true)
 
