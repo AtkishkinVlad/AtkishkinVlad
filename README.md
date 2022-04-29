@@ -1,3 +1,5 @@
+## Контакты
+
 <div id="badges">
   <a href="https://t.me/KotikVacia">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -7,35 +9,24 @@
   </a>
 </div>
 
+## Ключевые слова
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=38F799&background=FF090900&lines=Kontur;Fundamental+CS+and+IT;Ural+Fedaral+University)](https://git.io/typing-svg)
 
+## Ключевые навыки
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts,bash,bootstrap)](https://skillicons.dev)
+
+## Вклад в GitHub сообщество
 
 ![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true)
 
 [![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact)](https://github.com/AtkishkinVlad/github-readme-stats)
 
+## Количество задач на LeetCode
+
 [![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin)](https://github.com/vladatkishkin/leetcode-stats)
 
+## Кругозор
+
 <a href="https://app.daily.dev/KotikVacia"><img src="https://api.daily.dev/devcards/f23f7cf8c5e549c7a4c587732243d444.png?r=62e" width="400" alt="KotikVacia's Dev Card"/></a>
-
-# 📫 How to reach me
-
-* [Telegram](https://t.me/KotikVacia)
-* [Twitter](https://twitter.com/KotikVacia)
-* [VK](http://vk.com/vladatkishkin)
-* [Stepik](https://stepik.org/users/52904346)
-<!--
-**AtkishkinVlad/AtkishkinVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
