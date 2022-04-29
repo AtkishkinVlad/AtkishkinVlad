@@ -1,3 +1,12 @@
+<div id="badges">
+  <a href="https://t.me/KotikVacia">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/vladatkishkin">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=38F799&background=FF090900&lines=Kontur;Fundamental+CS+and+IT;Ural+Fedaral+University)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts,bash,bootstrap)](https://skillicons.dev)
