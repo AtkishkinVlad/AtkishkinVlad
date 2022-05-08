@@ -19,11 +19,11 @@
 
 ## Активность 🏃‍♂️
 
-![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true)
+![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true&show_icons=true&theme=gruvbox)
 
 ## Распределение по ЯП 📊
 
-[![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact)](https://github.com/AtkishkinVlad/github-readme-stats)
+[![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/AtkishkinVlad/github-readme-stats)
 
 ## Количество решенных задач на LeetCode 📈
 
