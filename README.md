@@ -11,7 +11,7 @@
 
 ## Ключевые слова
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=38F799&background=FF090900&lines=Kontur;Fundamental+CS+and+IT;Ural+Fedaral+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=38F799&background=FF090900&lines=I+live+in+Yekaterinburg;Favorite+movie+->+500+days+of+ Summer)](https://git.io/typing-svg)
 
 ## Ключевые навыки
 
