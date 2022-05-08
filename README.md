@@ -11,7 +11,7 @@
 
 ## Обо мне 🧍
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4BF782&lines=%D0%96%D0%B8%D0%B2%D1%83+%D0%B2+%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B1%D1%83%D1%80%D0%B3%D0%B5;%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC+%E2%80%94+500+%D0%B4%D0%BD%D0%B5%D0%B9+%D0%BB%D0%B5%D1%82%D0%B0;%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%B0%D1%8F+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0+%E2%80%94+OneRepublic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4BF782&lines=%D0%93%D0%BE%D1%80%D0%BE%D0%B4+%E2%80%94+%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B1%D1%83%D1%80%D0%B3;%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC+%E2%80%94+500+%D0%B4%D0%BD%D0%B5%D0%B9+%D0%BB%D0%B5%D1%82%D0%B0;%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0+%E2%80%94+OneRepublic;%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0+%E2%80%94+%D0%97%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)](https://git.io/typing-svg)
 
 ## Ключевые навыки 💪
 
