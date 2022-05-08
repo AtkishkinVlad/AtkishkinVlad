@@ -27,7 +27,7 @@
 
 ## Количество решенных задач на LeetCode 📈
 
-[![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin&theme=gruvbox)](https://github.com/vladatkishkin/leetcode-stats)
+[![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin&theme=dark)](https://github.com/vladatkishkin/leetcode-stats)
 
 ## Активность на DailyDev 📚
 
