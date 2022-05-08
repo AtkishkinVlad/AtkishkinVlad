@@ -17,9 +17,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts,bash,bootstrap)](https://skillicons.dev)
 
-## Вклад в GitHub сообщество
+## Активность
 
 ![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true)
+
+## Распределение по языкам
 
 [![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact)](https://github.com/AtkishkinVlad/github-readme-stats)
 
