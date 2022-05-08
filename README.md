@@ -23,11 +23,11 @@
 
 ## Распределение по ЯП 📊
 
-[![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/AtkishkinVlad/github-readme-stats)
+[![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact&theme=gruvbox)](https://github.com/AtkishkinVlad/github-readme-stats)
 
 ## Количество решенных задач на LeetCode 📈
 
-[![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin)](https://github.com/vladatkishkin/leetcode-stats)
+[![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin&theme=gruvbox)](https://github.com/vladatkishkin/leetcode-stats)
 
 ## Активность на DailyDev 📚
 
