@@ -1,4 +1,4 @@
-## Контакты 📞
+## Контакты 🤝
 
 <div id="badges">
   <a href="https://t.me/KotikVacia">
