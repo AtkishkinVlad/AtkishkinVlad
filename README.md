@@ -26,7 +26,7 @@
 
 [![Vlad Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=AtkishkinVlad&layout=compact&theme=gruvbox)](https://github.com/AtkishkinVlad/github-readme-stats)
 
-## Количество решенных задач на LeetCode 📈
+## Количество решенных задач на LeetCode ⚡
 
 [![Vlad LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladatkishkin&theme=dark)](https://github.com/vladatkishkin/leetcode-stats)
 
