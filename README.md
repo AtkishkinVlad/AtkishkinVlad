@@ -16,7 +16,7 @@
 
 ## Навыки 💪
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,py,postgres,ts,bash,bootstrap,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,nodejs,nextjs,ts,bash,bootstrap,express)](https://skillicons.dev)
 
 ## Статистика 🏃‍♂️
 
