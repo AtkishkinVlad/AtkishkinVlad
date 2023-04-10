@@ -20,7 +20,7 @@
 
 ## Статистика 🏃‍♂️
 
-![Vlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad&count_private=true&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KotikVacia&border_radius=16&locale=ru)](https://git.io/streak-stats)
 
 ## Распределение 📊
 
