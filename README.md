@@ -20,7 +20,7 @@
 
 ## Статистика 🏃‍♂️
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtkishkinVlad&border_radius=16&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AtkishkinVlad)](https://git.io/streak-stats)
 
 ## Распределение 📊
 
