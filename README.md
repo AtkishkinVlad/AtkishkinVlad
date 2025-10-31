@@ -18,10 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,docker,git,vscode,nodejs,nextjs,ts,bash,bootstrap,express)](https://skillicons.dev)
 
-## Статистика 🏃‍♂️
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AtkishkinVlad)](https://git.io/streak-stats)
-
 ## Распределение 📊
 
 [![AtkishkinVlad GitHub stats](https://github-readme-stats.vercel.app/api?username=AtkishkinVlad)](https://github.com/AtkishkinVlad/github-readme-stats)
